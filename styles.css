@@ -1,0 +1,167 @@
+body {
+    background: linear-gradient(88deg, #E0FFFF 40%,#E6E6FA 65%);
+}
+
+.first-part {
+    height: 200px;
+    width: 800px;
+    border: 3px;
+    border: solid;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    background-color: #F8F8FF;
+}
+.img-div {
+    padding: 10px;
+    float: left;
+    width: 30%;
+    height: 100%;
+}
+.info-div {
+    float: left;
+    padding: 10px;
+    width: 60%;
+}
+.second-part {
+    height: 1060px;
+    width: 800px;
+    border: 3px;
+    border: solid;
+    display: table;
+    margin-right: auto; 
+    margin-left: auto; 
+    position: relative;
+    background-color: #F8F8FF;
+}
+.left-part {
+    float: left;
+    width: 30%;
+    height: 1060px;
+    border-right: 1px;
+    border-right: solid;
+}
+.left-part div {
+    padding-top: 10px;
+    height: 142px;
+    width: 30% ;
+}
+/* .left-icons {
+    float: left;
+} */
+.icons {
+    float: left;
+    margin-right: 0px;
+}
+.icons div {
+    margin-right: 0px;
+}
+.left-part div .bi-bi-chevron-double-right {
+    color:black;
+    width: 40px;
+    height: 40px;
+    margin-right: 0;
+}
+.l-right-part {
+    float: left;
+}
+.l-right-part div {
+    padding-top: 10px;
+    height: 142px;
+    width: 150px ;
+    margin-top: -10px;
+}
+.years {
+    font-size: 16px;
+}
+.ed-ex {
+    margin-top: initial;
+}
+.pf-ex {
+    margin-bottom: 0px;
+    margin-top: 30px;
+}
+.vol-ex {
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
+.lang-ex {
+    margin-bottom: 0px;
+    margin-top: 50px;
+}
+.comp-ex {
+    margin-bottom: 0px;
+    margin-top: 60px;
+}
+.pers-ex {
+    margin-bottom: 0px;
+    margin-top: 70px;
+}
+
+.right-part {
+    float: left;
+    width: 68%;
+    height: 1060px;
+
+}
+.right-part .right-part-div {
+    padding-top: 12px;
+    height: 142px;
+    width: 550px;
+}
+.d1 {
+    margin-top: -15px;
+    padding-left: 30px;
+}
+.paragraph-div {
+    padding-left: 25px;
+    font-size: 16px;
+}
+.d2 {
+    margin-top: 15px;
+    padding-left: 30px;
+}
+.d3 {
+    margin-top: -8px;
+    padding-left: 30px;
+}
+.d4 {
+    margin-top: 3px;
+    padding-left: 30px;
+}
+.bi-bi-circle{
+    border: 2px;
+    margin-top: 53px;
+    height: 63px;
+    width: 88px;
+    padding-left: 32px;
+}
+.circle-paragraph {
+    font-size: 16px;
+    float: left;
+    margin-left: 46px;
+    padding: 28px;
+}
+#c-p {
+    margin-top: -87px;
+}
+.lang {
+    float: left;
+    margin: 36px;
+    /* margin-top: 2px; */
+    margin-bottom: -41px;
+}
+.d5{
+    margin-top: -20px;
+}
+.mic {
+    height: 58px;
+    width: 58px;
+    margin: 34px;
+    margin-top: 65px;
+}
+.d7 {
+    padding: 30px;
+    margin-top: 31px;
+}
